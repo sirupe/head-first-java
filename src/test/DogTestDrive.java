@@ -1,6 +1,6 @@
 package test;
 
-import java.Dog;
+import chapter2.Dog;
 
 public class DogTestDrive {
     public static void main(String[] args) {

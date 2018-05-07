@@ -1,4 +1,4 @@
-package java;
+package chapter2;
 
 public class Dog {
     // 인스턴스 변수 (아는 것)
